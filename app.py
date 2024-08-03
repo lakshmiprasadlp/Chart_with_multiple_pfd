@@ -89,6 +89,7 @@ def user_input(user_question):
         st.error(f"Error generating response: {e}")
 
 
+
 def main():
     st.set_page_config("Chat PDF")
     st.header("Chat with PDF using Gemini💁")
