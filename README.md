@@ -30,9 +30,9 @@ The chunks of text are then converted into embeddings using the `get_vector_stor
 Here are some screenshots of the application:
 
 ![Output](sampleoutput.png)
-*Figure 1: Application Output*
+# Figure 1: Application Output*
 
 ![API Error](ifaipisinvalid.png)
-*Figure 2: API Not Available Error*
+# Figure 2: API Not Available Error*
 
 
