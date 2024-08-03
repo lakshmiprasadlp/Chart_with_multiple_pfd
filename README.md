@@ -17,6 +17,10 @@ Once the text is extracted, it is divided into manageable chunks using the `get_
 ### Step 3: Text Embedding and Storage
 
 The chunks of text are then converted into embeddings using the `get_vector_store` function. These embeddings are stored in a FAISS vector store, enabling efficient similarity search and retrieval of relevant information.
+### Step 4: Query Processing and Response
+
+Based on the vector embeddings and user queries, the application retrieves relevant information and provides detailed responses using the language model.
+
 
 ## Technologies Used
 
